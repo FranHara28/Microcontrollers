@@ -1,0 +1,11 @@
+Zadaća 1
+Napisati i testirati program regulacije temperature toplinske makete.
+prikaz rada toplinske makete i ispitivanje dinamičkih svojstava
+Dodatni zadatak:
+Pomoću tipkala ili tipkovnice omogućiti u realnom vremenu promjenu referentne
+veličine i pojačanja PI regulatora.
+Na display ispisati pojačanja PI regulatora i referentnu vrijednost temperature, a
+u realnom vremenu ispisivati stvarnu vrijednost temperature, regulacijsku
+pogrešku i izlaz iz regulatora.
+Za potrebe grafičkog prikaza u Arduino serial monitoru slati podatke o referentnoj
+vrijednost temperature, stvarnoj vrijednost temperature i izlazu iz regulatora.
